@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586914614663.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3784908282",
+    "id" : "8700079A",
+    "lastKnownWriteTime" : 1586914684,
+    "last_content_update" : 1586914684011,
+    "path" : "D:/DOC/Personal/Study/R Program/project/versioncontrolchecking/versioncontrolchecking.R",
+    "project_path" : "versioncontrolchecking.R",
+    "properties" : {
+        "cursorPosition" : "0,65",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
